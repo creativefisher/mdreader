@@ -25,8 +25,8 @@ xcode-select --install
 ## Run From Source
 
 ```bash
-git clone <repo-url>
-cd MarkdownReader
+git clone https://github.com/creativefisher/mdreader.git
+cd mdreader
 make run
 ```
 
